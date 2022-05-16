@@ -1,5 +1,1 @@
-Testar o reset com --soft
-
-alterando agora no branch master.
-
-nova alteração do branch master 2
+Arquivo refeito. Deletei todas as linhas anteriores e coloquei essa nova linha apenas.
