@@ -9,3 +9,5 @@ alteração do arquivo. Agora pelo notebook.
 Mais uma alteração no readme.
 
 Testar se o comando git commit -a -m "Info..." com o parâmetro -a vai adicionar todos os arquivos e fazer o commit. Ou se será necessário sempre realizar o add e depois o commit.
+
+Nova funcionalidade para testar o REVERT.
